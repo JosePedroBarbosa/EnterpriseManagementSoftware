@@ -1,11 +1,6 @@
 ```markdown
 # Enterprise Management Software
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/EnterpriseManagementSoftware?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/EnterpriseManagementSoftware?style=flat-square)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/EnterpriseManagementSoftware?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/yourusername/EnterpriseManagementSoftware?style=flat-square)
-
 📌 **A robust enterprise management system built in C** for managing company information, business sectors, and generating analytical reports.
 
 ---
