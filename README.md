@@ -22,7 +22,6 @@ Enterprise management system developed in **C**, focused on managing companies, 
 - Data structures (structs, arrays, dynamic memory allocation)
 - File input/output
 - Input validation
-- Makefile for compilation
 
 ---
 
