@@ -27,7 +27,7 @@ Enterprise management system developed in **C**, focused on managing companies, 
 
 ## 📚 Academic Context
 
-Project developed within the **Computer Engineering degree**, focusing on code organization, good programming practices and problem-solving.
+Project developed within the **Software Engineering degree**, focusing on code organization, good programming practices and problem-solving.
 
 ---
 
