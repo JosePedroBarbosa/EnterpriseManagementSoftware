@@ -1,50 +1,40 @@
-```markdown
 # Enterprise Management Software
 
-📌 **A robust enterprise management system built in C** for managing company information, business sectors, and generating analytical reports.
+Enterprise management system developed in **C**, focused on managing companies, business sectors and generating analytical reports.
 
 ---
 
 ## ✨ Features
 
-✅ **Comprehensive Company Management**
-- Add, edit, remove, and search for companies
-- Manage detailed company information including NIF, name, category, activity branch, address, and postal code
-
-✅ **Activity Branch Management**
-- Create, update, and remove business activity branches
-- Maintain a categorized directory of business sectors
-
-✅ **User Rating System**
-- Users can rate companies
-- View company ratings and generate reports based on reviews
-
-✅ **Reporting Capabilities**
-- Generate reports on companies with the highest ratings
-- Create reports for companies within the same activity branch
-- View search statistics and company searches
-
-✅ **Data Persistence**
-- Save and load company and branch data to/from files
-- Maintain data integrity across sessions
-
-✅ **User-Friendly Interface**
-- Intuitive menu-driven interface
-- Clear and consistent user prompts
+- Full company management (create, edit, remove and search)
+- Storage of detailed company information (tax ID, name, category, business sector, address and postal code)
+- Business sector management
+- Company rating system
+- Report generation based on ratings and business sectors
+- Data persistence using files
+- Menu-based user interface
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-- **Language:** C
-- **Build System:** Makefile (with Debug and Release configurations)
-- **Data Structures:** Arrays, Structs, Dynamic Memory Allocation
-- **File Handling:** Binary file I/O for data persistence
-- **Input Validation:** Robust input handling and validation functions
-
-### System Requirements
-- **Operating System:** Windows (Cygwin environment)
-- **Compiler:** GCC (tested with Cygwin)
-- **Memory:** 64MB RAM minimum
+- C programming language
+- Data structures (structs, arrays, dynamic memory allocation)
+- File input/output
+- Input validation
+- Makefile for compilation
 
 ---
+
+## 📚 Academic Context
+
+Project developed within the **Computer Engineering degree**, focusing on code organization, good programming practices and problem-solving.
+
+---
+
+## 🎯 Learning Objectives
+
+- Strengthen C programming fundamentals
+- Efficient in-memory data management
+- File manipulation
+- Development of modular and well-structured applications
